@@ -1,0 +1,5 @@
+1	a&b	p
+2	b&c	m
+3	d&e&f	n
+4	n&g	m
+5	h&m	q

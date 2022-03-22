@@ -1,0 +1,5 @@
+La seleccion del los BOBS:
+	0 - 50
+		Se toman los 50 Primeros de la Generacion Anterior
+	51 - 151	
+		Se ccruzan los Primeros

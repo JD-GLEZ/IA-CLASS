@@ -1,0 +1,44 @@
+#include <conio.h>
+#include <stdio.h>
+#include <string.h>
+#include <Laberinto.h>
+typedef struct Dungeon{
+    char L1[20];
+    char L2[20];
+    char L3[20];
+    char L4[20];
+    char L5[20];
+    char L6[20];
+    char L7[20];
+    char L8[20];
+    char L9[20];
+    char L10[20];
+    char L11[20];
+    char L12[20];
+    char L13[20];
+    char L14[20];
+    char L15[20];
+}D;
+
+
+void main()
+{
+    D L;
+    L=leerarchivo("Lab.txt",L);
+    printf("%s\n", L.L1);
+    printf("%s\n", L.L2);
+    printf("%s\n", L.L3);
+    printf("%s\n", L.L4);
+    printf("%s\n", L.L5);
+    printf("%s\n", L.L6);
+    printf("%s\n", L.L7);
+    printf("%s\n", L.L8);
+    printf("%s\n", L.L9);
+    printf("%s\n", L.L10);
+    printf("%s\n", L.L11);
+    printf("%s\n", L.L12);
+    printf("%s\n", L.L13);
+    printf("%s\n", L.L14);
+    printf("%s\n", L.L15);
+    getch();
+}

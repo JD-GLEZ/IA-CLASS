@@ -1,0 +1,160 @@
+0
+00:00:00,000 --> 00:00:03,640
+[MUSIC]
+
+1
+00:00:03,640 --> 00:00:06,299
+As our world becomes increasingly digitized, so
+
+2
+00:00:06,299 --> 00:00:08,720
+does our ability to connect with it.
+
+3
+00:00:08,720 --> 00:00:11,410
+Imagine if you could search your surroundings the same way you
+
+4
+00:00:11,410 --> 00:00:12,760
+search the web.
+
+5
+00:00:12,760 --> 00:00:15,840
+Using existing cameras and advances in AI,
+
+6
+00:00:15,840 --> 00:00:18,600
+we can now find things and people in the real world,
+
+7
+00:00:18,600 --> 00:00:22,324
+in real time and take action to improve safety and well-being.
+
+8
+00:00:23,980 --> 00:00:26,460
+When a dangerous spill occurs in a chemical plant,
+
+9
+00:00:27,470 --> 00:00:29,330
+cameras recognize the incident.
+
+10
+00:00:30,760 --> 00:00:35,296
+Information about the spill is instantly shared with the people
+
+11
+00:00:35,296 --> 00:00:36,810
+who need it the most.
+
+12
+00:00:36,810 --> 00:00:40,090
+Enabling them to protect other employees from coming in contact
+
+13
+00:00:40,090 --> 00:00:41,034
+with the hazard,
+
+14
+00:00:41,034 --> 00:00:43,900
+[MUSIC]
+
+15
+00:00:43,900 --> 00:00:44,910
+And clean it up.
+
+16
+00:00:44,910 --> 00:00:50,280
+[MUSIC]
+
+17
+00:00:50,280 --> 00:00:54,030
+This technology can also help keep people safer in hospitals.
+
+18
+00:00:55,280 --> 00:00:58,846
+Patients recovering from heart surgery are limited to how much
+
+19
+00:00:58,846 --> 00:01:00,670
+they should exert themselves.
+
+20
+00:01:00,670 --> 00:01:03,652
+When someone exceeds the prescribed level of activity,
+
+21
+00:01:03,652 --> 00:01:04,715
+a nurse is alerted.
+
+22
+00:01:04,715 --> 00:01:06,670
+[MUSIC]
+
+23
+00:01:06,670 --> 00:01:07,568
+What&#39;s more,
+
+24
+00:01:07,568 --> 00:01:10,953
+the location of the closest wheelchair is identified, so
+
+25
+00:01:10,953 --> 00:01:14,415
+that the nurse can quickly get the patient seated and safe.
+
+26
+00:01:14,415 --> 00:01:16,970
+[MUSIC]
+
+27
+00:01:16,970 --> 00:01:20,021
+This technology is also useful in an environment like
+
+28
+00:01:20,021 --> 00:01:21,320
+a construction site.
+
+29
+00:01:21,320 --> 00:01:24,123
+Where people who need specialized tools are spread
+
+30
+00:01:24,123 --> 00:01:26,480
+out, sometimes across multiple floors.
+
+31
+00:01:27,860 --> 00:01:29,790
+Using cameras already in place,
+
+32
+00:01:29,790 --> 00:01:32,290
+this technology can identify a specific tool.
+
+33
+00:01:33,400 --> 00:01:35,410
+As well as the closest authorized person who
+
+34
+00:01:35,410 --> 00:01:36,820
+can deliver it.
+
+35
+00:01:36,820 --> 00:01:41,860
+Saving everyone time and keeping the workflow moving.
+
+36
+00:01:41,860 --> 00:01:45,292
+The digital and physical worlds are come together to help make
+
+37
+00:01:45,292 --> 00:01:48,950
+everyone more safe, secure, and productive.
+
+38
+00:01:48,950 --> 00:01:52,662
+And we&#39;re bringing the Edge of Microsoft&#39;s Cloud to any device.
+
+39
+00:01:52,662 --> 00:01:58,172
+[MUSIC]
+

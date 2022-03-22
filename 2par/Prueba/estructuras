@@ -1,0 +1,15 @@
+#include <conio.h>
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+
+struct alumno{
+        int nota;
+        char nombre[40];
+        int edad;
+};
+
+int main (void)
+{
+    return 0;
+}

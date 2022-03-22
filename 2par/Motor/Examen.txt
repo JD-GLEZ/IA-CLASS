@@ -1,0 +1,10 @@
+1	m&o	p
+2	x&h	o
+3	o&i&p	r
+4	r&n	i
+5	p&a	n
+6	a&z	b
+7	o&b	q
+8	q&x	f
+9	q&z&x	y
+10	m&y	g		

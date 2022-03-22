@@ -1,0 +1,12 @@
+#include <conio.h>
+#include <stdio.h>
+
+void main()
+{
+	for(int i=0;i<10;i++)
+   {
+    printf("HI \n");
+   }
+   printf("\n %d",i);
+	getch();
+}

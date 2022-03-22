@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <conio.h>
+
+void main()
+{
+    int A[5];
+    int x=0;
+    A[0]
+    A[1]
+    A[2]
+    A[3]
+    while (A[x]!=NULL)
+        printf("%d\n",A[x]);
+}
